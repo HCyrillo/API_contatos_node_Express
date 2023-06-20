@@ -1,4 +1,4 @@
-FROM registry.devneon.com.br/library/node:16-alpine
+FROM node:14
 WORKDIR /app
 ENV PORT=3000
 EXPOSE ${PORT}
