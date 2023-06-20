@@ -1,0 +1,28 @@
+{
+    "contatos": [
+        {
+            "id": "11d2438dd-cf9c-4e82-a254-5c4640407b63",
+            "nome": "Astolfo Da silva",
+            "telefone": "1131396390",
+            "email": "lucrezia2986@uorak.com"
+        },
+        {
+            "id": "0c2e814d-00bc-4aae-966f-15ed7507a8fe",
+            "nome": "Julio Cesar",
+            "telefone": "1129135715",
+            "email": "sergiy4721@uorak.com"
+        },
+        {
+            "id": "e062cb06-6b1e-4e37-acad-b63c0e7a5566",
+            "nome": "Gandalf Cinzento",
+            "telefone": "1120648227",
+            "email": "reggie8084@uorak.com"
+        },
+        {
+            "id": "79c1e264-3050-49d1-9735-3aeeff75dd41",
+            "nome": "João Gomes",
+            "telefone": "1123352628",
+            "email": "aiying9786@uorak.com"
+        }
+    ]
+}
